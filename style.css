@@ -28,11 +28,13 @@ p {
 ul {
     font-family: "Arial", sans-serif;
     font-size: 20px;
+    decoration: none;
 }
 
 li {
     font-family: "Arial", sans-serif;
     font-size: 20px;
+    decoration: none;
 }
 
 #container {
