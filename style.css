@@ -25,16 +25,30 @@ p {
     font-family: "Arial", sans-serif;
 }
 
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
 ul {
     font-family: "Arial", sans-serif;
     font-size: 20px;
-    text-decoration: none;
 }
 
 li {
     font-family: "Arial", sans-serif;
     font-size: 20px;
-    text-decoration: none;
 }
 
 #container {
