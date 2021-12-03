@@ -70,6 +70,7 @@ a:hover {
 .topnav {
     background-color: #333333;
     overflow: hidden;
+    z-index: 50;
 }
 
 .topnav a {
@@ -111,7 +112,8 @@ a:hover {
 .dropdown {
   position: relative;
   display: inline-block;
-}.dropdown-content {
+}
+.dropdown-content {
    display: none;
    position: absolute;
    background-color: #ff99ff;
