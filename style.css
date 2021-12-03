@@ -97,7 +97,7 @@ li {
   background-color: #ff99ff;
   color: white;
   padding: 16px;
-  font-size: 16px;
+  font-size: 24px;
   border: none;
 }
 .dropdown {
@@ -118,6 +118,6 @@ li {
    display: block;
  }
 
-.dropdown-content a:hover {background-color: #fff;}
+.dropdown-content a:hover {background-color: #fff; color: black;}
 .dropdown:hover .dropdown-content {display: block;}
-.dropdown:hover .dropbtn {background-color: #fff;}
+.dropdown:hover .dropbtn {background-color: #fff; color: black;}
