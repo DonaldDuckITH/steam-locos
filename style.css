@@ -41,18 +41,26 @@ a:active {
   text-decoration: underline;
 }
 
-ul {
-    font-family: "Arial", sans-serif;
-    font-size: 20px;
-}
-
 li {
     font-family: "Arial", sans-serif;
-    font-size: 20px;
+    font-size: 22px;
+    color: #f9f;
+}
+
+li a{
+    font-family: "Arial", sans-serif;
+    font-size: 22px;
+    color: #f9f;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #black;
+    font-size: 24px;
 }
 
 #container {
-    background-color: #ffccff;
+    background-color: #fdf;
     margin: 0 auto;
     width: 70%;
     margin-top: 0px;
