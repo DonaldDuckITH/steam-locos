@@ -60,7 +60,7 @@ a:hover {
 }
 
 #container {
-    background-color: #905;
+    background-color: #402;
     margin: 0 auto;
     width: 70%;
     margin-top: 0px;
@@ -93,8 +93,8 @@ a:hover {
 }
 
 .topnav a:hover {
-    background-color: white;
-    color: black;
+    background-color: 402;
+    color: white;
 }
 
 .topnav a.image {
@@ -103,7 +103,7 @@ a:hover {
 }
 /*Dropdown menu*/
 .dropbtn {
-  background-color: #402;
+  background-color: #905;
   color: #fff;
   padding: 14px;
   font-size: 24px;
@@ -116,13 +116,13 @@ a:hover {
 .dropdown-content {
    display: none;
    position: absolute;
-   background-color: #402;
+   background-color: #905;
    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
    z-index: 50;
  }
  .dropdown-content a {
    color: fff;
-   background: #402;
+   background: #905;
    padding: 12px;
    text-decoration: none;
    display: block;
