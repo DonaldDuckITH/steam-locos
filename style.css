@@ -110,7 +110,7 @@ a:hover {
   font-size: 24px;
   border: none;
 }
-.dropdown {
+.dropbtn {
   position: relative;
   display: inline-block;
 }
