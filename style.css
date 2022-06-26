@@ -110,9 +110,13 @@ a:hover {
   font-size: 24px;
   border: none;
 }
-.dropbtn {
+.dropbtn .dropdown-submenu{
   position: relative;
   display: inline-block;
+
+  top: 0;
+  left: 100%;
+  margin-top: -1px;
 }
 .dropdown-content {
    display: none;
