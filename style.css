@@ -28,12 +28,12 @@ p {
 }
 
 #fire {
-    color: orange;
+    color: red;
     font-size: 28px;
 }
 
 #ice {
-    color: skyblue;
+    color: lightblue;
     font-size: 28px;
 }
 
@@ -43,7 +43,7 @@ p {
 }
 
 #water {
-    color: lightblue;
+    color: aqua;
     font-size: 28px;
 }
 
