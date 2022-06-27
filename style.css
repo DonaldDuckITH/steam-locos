@@ -7,6 +7,10 @@ body {
     padding: 0px;
 }
 
+p {
+    color: fff;
+}
+
 h1 {
     font-family: "Arial", sans-serif;
     font-size: 54px;
